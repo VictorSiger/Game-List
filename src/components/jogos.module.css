@@ -47,12 +47,14 @@
   height: 30%;
   width: 100%;
   color: white;
+  font-size: 20px;
 }
 
 .descricao {
   height: 40%;
   color: white;
   font-size: larger;
+  font-size: 15px;
 }
 
 .button {
@@ -111,4 +113,5 @@
     scale: 1.0;
   }
   
+
 }
