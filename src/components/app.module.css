@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    width: 100vw;
+    background-image: radial-gradient(circle, #367cdd, #155EC4, #00008d);
+    overflow-x: hidden;
+}
+
+@media (max-width: 576px) {
+    .container {
+    min-height: 100vh;
+    width: 100vw;
+    background-image: radial-gradient(circle, #367cdd, #155EC4, #00008d);
+    overflow-x: hidden;
+}
+}
